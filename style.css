@@ -214,15 +214,7 @@ body {
 .buttons-container > button:last-child {
   margin-bottom: 0;
 }
-#btn_save {
-  background-color: #fed235;
-}
-#btn_save:hover {
-  background-color: #fec702;
-}
-#btn_save:active {
-  background-color: #cca001;
-}
+
 #btn_discard {
   background-color: #fafafa;
 }
